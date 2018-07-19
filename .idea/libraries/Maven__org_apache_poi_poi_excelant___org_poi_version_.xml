@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.poi:poi-excelant:${org.poi-version}">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-excelant/${org.poi-version}/poi-excelant-${org.poi-version}.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-excelant/${org.poi-version}/poi-excelant-${org.poi-version}-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/poi/poi-excelant/${org.poi-version}/poi-excelant-${org.poi-version}-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
